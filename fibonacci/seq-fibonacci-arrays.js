@@ -1,3 +1,9 @@
+/* 
+escreva um programa na linguagem que desejar onde, 
+informado um número, 
+ele calcule a sequência de Fibonacci e retorne uma mensagem avisando se o número informado pertence ou não a sequência.
+*/
+
 function fibonacci (){
   //Sequência de Fibonacci (30 numeros)
   let fibonacci = [0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 
