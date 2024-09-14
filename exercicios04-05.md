@@ -25,3 +25,4 @@ Assim, sei que o interruptor 1, liga a lampada 1 (exemplo)
 O interruptor 3, liga a lampada 3 (exemplo)
 E o interruptor 2, que esta desligado, liga a lampada 2 (exemplo)
 Cheguei a essa conclusão pois não diz que preciso considerar a temperatura da lampada entre outros fatores.
+ 
